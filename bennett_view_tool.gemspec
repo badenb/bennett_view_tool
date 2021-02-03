@@ -12,7 +12,6 @@ Gem::Specification.new do |spec|
   spec.description   = "Provides generated HTML data for Rails applications."
   spec.homepage      = "https://github.com/badenb/bennett_view_tool"
   spec.license       = "MIT"
-  spec.required_ruby_version = Gem::Requirement.new(">= 2.4.0")
 
   # Specify which files should be added to the gem when it is released.
   # The `git ls-files -z` loads the files in the RubyGem that have been added into git.
