@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+BennettViewTool::Renderer.copyright 'Baden Bennett', 'All Rights Reserved'
+```
 
 ## Development
 
